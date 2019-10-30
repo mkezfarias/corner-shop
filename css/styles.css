@@ -1455,11 +1455,6 @@ h6,
     display: inline-block;
   }
 
-
-  /* margin for large size */
-
-  /* margin-top */
-
   .margin-lg-top-1 {
     margin-top: 0.1rem;
   }
@@ -1541,8 +1536,6 @@ h6,
   .margin-lg-bottom-10 {
     margin-bottom: 1rem;
   }
-
-  /* margin-left */
 
   .margin-lg-left-1 {
     margin-left: 0.1rem;
