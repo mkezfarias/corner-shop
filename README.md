@@ -29,17 +29,17 @@
     <img src="https://github.com/mkezmkez/appleclone/raw/master/assets/microverse-logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">8th Project. HTML & CSS3 Course. Bootstrap</h3>
+  <h3 align="center">7th Project. HTML & CSS3 Course. Bootstrap</h3>
 
   <p align="center">
 
 <br>
-    <a href="https://github.com/mkezmkez/bootstrap"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/mkezmkez/corner-shop"><strong>Explore the docs »</strong></a>
 <br>
 <br> 
-    <a href="https://raw.githack.com/mkezmkez/bootstrap/boot/index.html">View Demo</a>
+    <a href="https://raw.githack.com/mkezmkez/corner-shop/corner/index.html">View Demo</a>
 <br> 
-    <a href="https://github.com/mkezmkez/bootstrap/issues">Request Feature</a>
+    <a href="https://github.com/mkezmkez/corner-shop/issues">Request Feature</a>
   </p>
 
 
@@ -61,17 +61,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-In this project, I created a clone of the responisve newsweek website using bootstrap, CSS properties, semantic HTML. The project was based in the layout of newsweek  website <a href="https://www.newsweek.com/"> View Source </a>
+In this project, I created a clone of the Cornersho website using a custom CSS grid framework, CSS properties, semantic HTML. The project was based in the layout of the following website <a href="https://web.cornershopapp.com/store/175/featured"> View Source </a>
 <br>
 <br>
-For more details about the YouTube Project and it's requirements go to <a href="https://www.theodinproject.com/courses/html5-and-css3/lessons/using-bootstrap"> The Odin Project</a>
+For more details about the YouTube Project and it's requirements go to <a href="https://www.theodinproject.com/courses/html5-and-css3/lessons/design-your-own-grid-based-framework"> The Odin Project</a>
 
 ### Built With
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [BOOTSTRAP](https://getbootstrap.com/docs/4.0/utilities/flex/)
-
+* [SASS](https://sass-lang.com)
 
 
 <!-- GETTING STARTED -->
@@ -79,7 +78,7 @@ For more details about the YouTube Project and it's requirements go to <a href="
 
 To get a local copy up and running follow these simple steps.
 
-Clone or fork the repo <https://github.com/mkezmkez/bootstrap>
+Clone or fork the repo <https://github.com/mkezmkez/corner-shop>
 
 
 <!-- CONTRIBUTING -->
@@ -105,8 +104,8 @@ No licenses required as project was developed in educational eviroment.
 ## Contact
 
 Luis Puente - [@mkezmkez](https://twitter.com/mkezkmez) - puente.luism@gmail.com
-Currently not partered. Authorized by Student Success to complete project solo (by Willow Mata)
-Project Link: [github.com/mkezmkez/design-teardown](https://github.com/mkezmkez/design-teardown)
+Currently unpaired. Authorized by Student Success to complete project solo (by Willow Mata)
+Project Link: [github.com/mkezmkez/design-teardown](https://github.com/mkezmkez/corner-shop)
 
 
 
